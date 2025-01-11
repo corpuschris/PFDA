@@ -1,0 +1,241 @@
+Year,Status,Nationality,Applications
+2017,Received,Afghanistan,1166
+2017,Granted,Afghanistan,1036
+2017,Refused,Afghanistan,186
+2018,Received,Afghanistan,1264
+2018,Granted,Afghanistan,628
+2018,Refused,Afghanistan,27
+2019,Received,Afghanistan,1208
+2019,Granted,Afghanistan,759
+2019,Refused,Afghanistan,409
+2020,Received,Afghanistan,1320
+2020,Granted,Afghanistan,813
+2020,Refused,Afghanistan,425
+2021,Received,Afghanistan,600
+2021,Granted,Afghanistan,372
+2021,Refused,Afghanistan,560
+2022,Received,Afghanistan,1031
+2022,Granted,Afghanistan,441
+2022,Refused,Afghanistan,399
+2023,Received,Afghanistan,362
+2023,Granted,Afghanistan,1078
+2023,Refused,Afghanistan,338
+2024,Received,Afghanistan,1024
+2024,Granted,Afghanistan,554
+2024,Refused,Afghanistan,356
+2017,Received,India,1097
+2017,Granted,India,436
+2017,Refused,India,162
+2018,Received,India,1133
+2018,Granted,India,938
+2018,Refused,India,382
+2019,Received,India,1302
+2019,Granted,India,1052
+2019,Refused,India,439
+2020,Received,India,1265
+2020,Granted,India,161
+2020,Refused,India,135
+2021,Received,India,1594
+2021,Granted,India,1067
+2021,Refused,India,100
+2022,Received,India,1574
+2022,Granted,India,379
+2022,Refused,India,362
+2023,Received,India,567
+2023,Granted,India,773
+2023,Refused,India,279
+2024,Received,India,1275
+2024,Granted,India,920
+2024,Refused,India,52
+2017,Received,Brazil,827
+2017,Granted,Brazil,267
+2017,Refused,Brazil,354
+2018,Received,Brazil,1072
+2018,Granted,Brazil,1137
+2018,Refused,Brazil,266
+2019,Received,Brazil,1131
+2019,Granted,Brazil,658
+2019,Refused,Brazil,556
+2020,Received,Brazil,1274
+2020,Granted,Brazil,736
+2020,Refused,Brazil,302
+2021,Received,Brazil,608
+2021,Granted,Brazil,1030
+2021,Refused,Brazil,354
+2022,Received,Brazil,917
+2022,Granted,Brazil,559
+2022,Refused,Brazil,303
+2023,Received,Brazil,417
+2023,Granted,Brazil,536
+2023,Refused,Brazil,0
+2024,Received,Brazil,1374
+2024,Granted,Brazil,1091
+2024,Refused,Brazil,349
+2017,Received,Nigeria,587
+2017,Granted,Nigeria,193
+2017,Refused,Nigeria,344
+2018,Received,Nigeria,1330
+2018,Granted,Nigeria,453
+2018,Refused,Nigeria,417
+2019,Received,Nigeria,1125
+2019,Granted,Nigeria,704
+2019,Refused,Nigeria,254
+2020,Received,Nigeria,927
+2020,Granted,Nigeria,709
+2020,Refused,Nigeria,321
+2021,Received,Nigeria,703
+2021,Granted,Nigeria,818
+2021,Refused,Nigeria,274
+2022,Received,Nigeria,1056
+2022,Granted,Nigeria,756
+2022,Refused,Nigeria,101
+2023,Received,Nigeria,804
+2023,Granted,Nigeria,767
+2023,Refused,Nigeria,437
+2024,Received,Nigeria,732
+2024,Granted,Nigeria,591
+2024,Refused,Nigeria,349
+2017,Received,United States,853
+2017,Granted,United States,1035
+2017,Refused,United States,363
+2018,Received,United States,878
+2018,Granted,United States,384
+2018,Refused,United States,284
+2019,Received,United States,814
+2019,Granted,United States,417
+2019,Refused,United States,593
+2020,Received,United States,1026
+2020,Granted,United States,1004
+2020,Refused,United States,218
+2021,Received,United States,924
+2021,Granted,United States,1152
+2021,Refused,United States,203
+2022,Received,United States,1086
+2022,Granted,United States,772
+2022,Refused,United States,614
+2023,Received,United States,446
+2023,Granted,United States,418
+2023,Refused,United States,250
+2024,Received,United States,1517
+2024,Granted,United States,751
+2024,Refused,United States,309
+2017,Received,China,1167
+2017,Granted,China,844
+2017,Refused,China,315
+2018,Received,China,1051
+2018,Granted,China,1118
+2018,Refused,China,513
+2019,Received,China,700
+2019,Granted,China,610
+2019,Refused,China,311
+2020,Received,China,564
+2020,Granted,China,1153
+2020,Refused,China,489
+2021,Received,China,755
+2021,Granted,China,874
+2021,Refused,China,233
+2022,Received,China,1256
+2022,Granted,China,794
+2022,Refused,China,318
+2023,Received,China,767
+2023,Granted,China,776
+2023,Refused,China,617
+2024,Received,China,583
+2024,Granted,China,566
+2024,Refused,China,142
+2017,Received,Russia,990
+2017,Granted,Russia,625
+2017,Refused,Russia,312
+2018,Received,Russia,1205
+2018,Granted,Russia,176
+2018,Refused,Russia,232
+2019,Received,Russia,754
+2019,Granted,Russia,490
+2019,Refused,Russia,359
+2020,Received,Russia,1002
+2020,Granted,Russia,933
+2020,Refused,Russia,172
+2021,Received,Russia,762
+2021,Granted,Russia,762
+2021,Refused,Russia,191
+2022,Received,Russia,981
+2022,Granted,Russia,595
+2022,Refused,Russia,202
+2023,Received,Russia,594
+2023,Granted,Russia,886
+2023,Refused,Russia,292
+2024,Received,Russia,1368
+2024,Granted,Russia,659
+2024,Refused,Russia,293
+2017,Received,France,682
+2017,Granted,France,917
+2017,Refused,France,108
+2018,Received,France,1017
+2018,Granted,France,1006
+2018,Refused,France,145
+2019,Received,France,644
+2019,Granted,France,484
+2019,Refused,France,536
+2020,Received,France,1023
+2020,Granted,France,660
+2020,Refused,France,355
+2021,Received,France,981
+2021,Granted,France,863
+2021,Refused,France,213
+2022,Received,France,543
+2022,Granted,France,391
+2022,Refused,France,368
+2023,Received,France,282
+2023,Granted,France,612
+2023,Refused,France,365
+2024,Received,France,807
+2024,Granted,France,954
+2024,Refused,France,418
+2017,Received,Germany,1157
+2017,Granted,Germany,561
+2017,Refused,Germany,340
+2018,Received,Germany,897
+2018,Granted,Germany,212
+2018,Refused,Germany,121
+2019,Received,Germany,809
+2019,Granted,Germany,1099
+2019,Refused,Germany,45
+2020,Received,Germany,786
+2020,Granted,Germany,582
+2020,Refused,Germany,90
+2021,Received,Germany,1070
+2021,Granted,Germany,677
+2021,Refused,Germany,350
+2022,Received,Germany,1025
+2022,Granted,Germany,700
+2022,Refused,Germany,279
+2023,Received,Germany,1214
+2023,Granted,Germany,1013
+2023,Refused,Germany,284
+2024,Received,Germany,839
+2024,Granted,Germany,565
+2024,Refused,Germany,155
+2017,Received,Pakistan,976
+2017,Granted,Pakistan,745
+2017,Refused,Pakistan,203
+2018,Received,Pakistan,876
+2018,Granted,Pakistan,1049
+2018,Refused,Pakistan,85
+2019,Received,Pakistan,1003
+2019,Granted,Pakistan,600
+2019,Refused,Pakistan,228
+2020,Received,Pakistan,803
+2020,Granted,Pakistan,851
+2020,Refused,Pakistan,531
+2021,Received,Pakistan,606
+2021,Granted,Pakistan,844
+2021,Refused,Pakistan,131
+2022,Received,Pakistan,642
+2022,Granted,Pakistan,599
+2022,Refused,Pakistan,0
+2023,Received,Pakistan,1852
+2023,Granted,Pakistan,762
+2023,Refused,Pakistan,353
+2024,Received,Pakistan,1057
+2024,Granted,Pakistan,757
+2024,Refused,Pakistan,139
